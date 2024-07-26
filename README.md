@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GobiKrish3758/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/GobiKrish3758/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GobiKrish3758/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/GobiKrish3758/leetcode/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/GobiKrish3758/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GobiKrish3758/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
