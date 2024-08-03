@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GobiKrish3758/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/GobiKrish3758/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/GobiKrish3758/leetcode/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/GobiKrish3758/leetcode/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
