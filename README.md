@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
+| [0147-insertion-sort-list](https://github.com/GobiKrish3758/leetcode/tree/master/0147-insertion-sort-list) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/GobiKrish3758/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GobiKrish3758/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/GobiKrish3758/leetcode/tree/master/0141-linked-list-cycle) |
+| [0147-insertion-sort-list](https://github.com/GobiKrish3758/leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/GobiKrish3758/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
