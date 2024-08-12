@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GobiKrish3758/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/GobiKrish3758/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/GobiKrish3758/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
