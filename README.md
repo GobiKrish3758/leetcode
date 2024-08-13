@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/GobiKrish3758/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GobiKrish3758/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/GobiKrish3758/leetcode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GobiKrish3758/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/GobiKrish3758/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
+| [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/GobiKrish3758/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/GobiKrish3758/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GobiKrish3758/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
