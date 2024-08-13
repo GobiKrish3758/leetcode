@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/GobiKrish3758/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/GobiKrish3758/leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/GobiKrish3758/leetcode/tree/master/0065-valid-number) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/GobiKrish3758/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
