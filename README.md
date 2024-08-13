@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/GobiKrish3758/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GobiKrish3758/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/GobiKrish3758/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/GobiKrish3758/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/GobiKrish3758/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
