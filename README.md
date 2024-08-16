@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GobiKrish3758/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GobiKrish3758/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
 <!---LeetCode Topics End-->
