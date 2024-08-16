@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GobiKrish3758/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/GobiKrish3758/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/GobiKrish3758/leetcode/tree/master/0141-linked-list-cycle) |
+| [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/GobiKrish3758/leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/GobiKrish3758/leetcode/tree/master/0065-valid-number) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/GobiKrish3758/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/GobiKrish3758/leetcode/tree/master/0147-insertion-sort-list) |
+| [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 ## Simulation
 |  |
 | ------- |
@@ -128,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
