@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GobiKrish3758/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
+| [0137-single-number-ii](https://github.com/GobiKrish3758/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/GobiKrish3758/leetcode/tree/master/0137-single-number-ii) |
 | [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Greedy
 |  |
