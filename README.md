@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/GobiKrish3758/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GobiKrish3758/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Hash Table
