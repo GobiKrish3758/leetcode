@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GobiKrish3758/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GobiKrish3758/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GobiKrish3758/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/GobiKrish3758/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/GobiKrish3758/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/GobiKrish3758/leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 ## Simulation
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GobiKrish3758/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
