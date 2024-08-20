@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GobiKrish3758/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/GobiKrish3758/leetcode/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/GobiKrish3758/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/GobiKrish3758/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
+| [1894-merge-strings-alternately](https://github.com/GobiKrish3758/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
