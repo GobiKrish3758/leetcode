@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/GobiKrish3758/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/GobiKrish3758/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/GobiKrish3758/leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/GobiKrish3758/leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/GobiKrish3758/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GobiKrish3758/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GobiKrish3758/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/GobiKrish3758/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GobiKrish3758/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/GobiKrish3758/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GobiKrish3758/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/GobiKrish3758/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/GobiKrish3758/leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GobiKrish3758/leetcode/tree/master/0179-largest-number) |
