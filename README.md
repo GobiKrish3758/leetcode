@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GobiKrish3758/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GobiKrish3758/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/GobiKrish3758/leetcode/tree/master/0283-move-zeroes) |
+| [1319-unique-number-of-occurrences](https://github.com/GobiKrish3758/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GobiKrish3758/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GobiKrish3758/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GobiKrish3758/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GobiKrish3758/leetcode/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
+| [1319-unique-number-of-occurrences](https://github.com/GobiKrish3758/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
