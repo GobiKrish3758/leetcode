@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GobiKrish3758/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/GobiKrish3758/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1835-decode-xored-permutation](https://github.com/GobiKrish3758/leetcode/tree/master/1835-decode-xored-permutation) |
+| [2881-split-strings-by-separator](https://github.com/GobiKrish3758/leetcode/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/GobiKrish3758/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/GobiKrish3758/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2881-split-strings-by-separator](https://github.com/GobiKrish3758/leetcode/tree/master/2881-split-strings-by-separator) |
 ## Dynamic Programming
 |  |
 | ------- |
