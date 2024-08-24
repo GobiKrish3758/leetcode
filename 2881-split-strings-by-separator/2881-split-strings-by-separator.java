@@ -14,7 +14,6 @@ class Solution {
         list.add(dot[j]);
     }
 }
-    
     return list;
     }
 }
