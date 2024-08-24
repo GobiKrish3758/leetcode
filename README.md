@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GobiKrish3758/leetcode/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/GobiKrish3758/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/GobiKrish3758/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/GobiKrish3758/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0778-reorganize-string](https://github.com/GobiKrish3758/leetcode/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/GobiKrish3758/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/GobiKrish3758/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1894-merge-strings-alternately](https://github.com/GobiKrish3758/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/GobiKrish3758/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/GobiKrish3758/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/GobiKrish3758/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
